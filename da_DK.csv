@@ -11615,6 +11615,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Hvis du har spørgsmål til ordren, kan du kontakte os på <a href=""mailto:%store_email""> %store_email</a>",module,Magento_Sales
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Din kredit Memo #%creditmemo_id for ordre #%order_id",module,Magento_Sales
 "Billing Info","Kundeinformation",module,Magento_Sales
+"Shipping Info","Forsendelsesinformation",module,Magento_Sales
 "Update to your %store_name credit memo","Opdaterer til din %store_name kreditnota",module,Magento_Sales
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Din ordre #%increment_id er blevet opdateret med en status for <strong>%order_status</strong>.",module,Magento_Sales
 "Invoice for your %store_name order","Fakturaen for din %store_name ordre",module,Magento_Sales
@@ -15171,6 +15172,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Hvis du har spørgsmål til ordren, kan du kontakte os på <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend/Magento/luma
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Din kredit Memo #%creditmemo_id for ordre #%order_id",theme,frontend/Magento/luma
 "Billing Info","Kundeinformation",theme,frontend/Magento/luma
+"Shipping Info","Forsendelsesinformation",theme,frontend/Magento/luma
 "Payment Method","Betalingsmetode",theme,frontend/Magento/luma
 "Update to your %store_name credit memo","Opdaterer til din %store_name kreditnota",theme,frontend/Magento/luma
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Din ordre #%increment_id er blevet opdateret med en status for <strong>%order_status</strong>.",theme,frontend/Magento/luma
